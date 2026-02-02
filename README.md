@@ -5,7 +5,7 @@ LOGIN CREDENTIALS:
 Username: admin
 Password: admin@123
 
-Project Link: https://student.heraldcollege.edu.np/~np03cs4a240330/clinic_system
+Project Link: https://student.heraldcollege.edu.np/~np03cs4a240330/
 
 GitHub Link: https://github.com/Glis10/Clinic-System
 
