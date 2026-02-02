@@ -6,7 +6,8 @@ Username: admin
 Password: admin@123
 
 Project Link: https://student.heraldcollege.edu.np/~np03cs4a240330/clinic_system
-GitHub Link: https://github.com/Glis10/Clinic-Appointment-System.git
+
+GitHub Link: https://github.com/Glis10/Clinic-System
 
 
 
